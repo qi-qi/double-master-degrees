@@ -4,10 +4,10 @@
 
 ## Distributed Computing in Computer Science
 `Double Master Degrees: Universities`
-1. Royal Institute of Technology - KTH, Stockholm, Sweden
+1. Royal Institute of Technology - KTH | Stockholm, Sweden
     - [https://www.kth.se](https://www.kth.se)
     - [https://www.kth.se/en](https://www.kth.se/en)
-2. Instituto Superior Técnico University of Lisbon - IST, Lisbon, Portugal
+2. Instituto Superior Técnico University of Lisbon - IST | Lisbon, Portugal
     - [https://tecnico.ulisboa.pt](https://tecnico.ulisboa.pt)
     - [https://tecnico.ulisboa.pt/en](https://tecnico.ulisboa.pt/en)
 
@@ -16,9 +16,9 @@
     - [https://github.com/qi-qi/thesis](https://github.com/qi-qi/thesis)
 
 `Double Master Degrees | Certificate | Scholarship`
-1. Master Degree 1: Royal Institute of Technology - KTH, Stockholm, Sweden
+1. Master Degree 1: Royal Institute of Technology - KTH | Stockholm, Sweden
     - [https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf](https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf)
-2. Master Degree 2: Instituto Superior Técnico University of Lisbon - IST, Lisbon, Portugal
+2. Master Degree 2: Instituto Superior Técnico University of Lisbon - IST | Lisbon, Portugal
     - [https://github.com/qi-qi/degree/raw/master/MasterDegree_IST.pdf](https://github.com/qi-qi/degree/raw/master/MasterDegree_IST.pdf)
 3. Double Master Degrees Certificate
     - [https://github.com/qi-qi/degree/raw/master/MasterDegreeCertificate_KTH.pdf](https://github.com/qi-qi/degree/raw/master/MasterDegreeCertificate_KTH.pdf)
@@ -32,11 +32,11 @@
 
 ## Double Master Degrees | Certificate | Scholarship
 
-### Royal Institute of Technology - KTH, Stockholm, Sweden
+### Royal Institute of Technology - KTH | Stockholm, Sweden
 [https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf](https://github.com/qi-qi/degree/raw/master/MasterDegree_KTH.pdf)
 ![](https://github.com/qi-qi/degree/raw/master/img/MasterDegree_KTH.jpg)
 
-### Instituto Superior Técnico University of Lisbon - IST, Lisbon, Portugal
+### Instituto Superior Técnico University of Lisbon - IST | Lisbon, Portugal
 [https://github.com/qi-qi/degree/raw/master/MasterDegree_IST.pdf](https://github.com/qi-qi/degree/raw/master/MasterDegree_IST.pdf)
 ![](https://github.com/qi-qi/degree/raw/master/img/MasterDegree_IST.jpg)
 
